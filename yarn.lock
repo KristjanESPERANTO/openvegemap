@@ -2353,10 +2353,12 @@ kind-of@^6.0.0, kind-of@^6.0.2:
   resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-6.0.3.tgz#07c05034a6c349fa06e24fa35aa76db4580ce4dd"
   integrity sha512-dcS1ul+9tmeD95T+x28/ehLgd9mENa3LsvDTtzm3vyBEO7RPptvAD+t44WVXaUjTBRcrpFeFlC8WCruUR456hw==
 
-leaflet-control-geocoder@~1.5.5:
-  version "1.5.8"
-  resolved "https://registry.yarnpkg.com/leaflet-control-geocoder/-/leaflet-control-geocoder-1.5.8.tgz#c52dfbb9be5f6388d683346acb49bf017fd5b6a8"
-  integrity sha512-RS7SjP6M2aombxfUu0EwZxsyxZajp71eU3m9pU0pIeJccy719bwbbh9UG5N752IWaQwoz6/Z4cPZ6NpVXVugSA==
+leaflet-control-geocoder@~1.13.0:
+  version "1.13.0"
+  resolved "https://registry.yarnpkg.com/leaflet-control-geocoder/-/leaflet-control-geocoder-1.13.0.tgz#c84cffd8f64a8f0b1091a59c3b59c03d5dcc583e"
+  integrity sha512-mgYGx/2WA5CcvhP+IJtw7VvJwSGAe5zxX+TKe6ruYkLj2W5I5V/K/nQiLvsUtqifBojBGoKIPNZ8m0mXJNIudg==
+  optionalDependencies:
+    open-location-code "^1.0.0"
 
 leaflet-info-control@~0.3.0:
   version "0.3.0"
@@ -2796,6 +2798,11 @@ onsenui@^2.11.1:
   dependencies:
     "@onsenui/custom-elements" "1.0.0"
     core-js "^2.6.11"
+
+open-location-code@^1.0.0:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/open-location-code/-/open-location-code-1.0.3.tgz#5ea1a34ee5221c6cafa04392e1bd906fd7488f7e"
+  integrity sha1-XqGjTuUiHGyvoEOS4b2Qb9dIj34=
 
 opencollective-postinstall@^2.0.2:
   version "2.0.3"
