@@ -1961,10 +1961,10 @@ husky@^4.2.5:
     slash "^3.0.0"
     which-pm-runs "^1.0.0"
 
-i18n-postal-address@~0.0.6:
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/i18n-postal-address/-/i18n-postal-address-0.0.7.tgz#c6ff6624f0f5113bde1233a10a86f175680b3150"
-  integrity sha512-Mmbk//+y8oL3jwH0YbJOeSG6ySBxNf12WlG+dsLLJO7YkUp7F7jQeM0FcKIe337J4ozFh0Q4koDKvgHz4/8Oeg==
+i18n-postal-address@~0.4.3:
+  version "0.4.3"
+  resolved "https://registry.yarnpkg.com/i18n-postal-address/-/i18n-postal-address-0.4.3.tgz#fe20003f7ca71fbff71b13de483c4a007d691c58"
+  integrity sha512-U6O40jB3uPzAKaG3gcsfDdM/JITAi7FcXll7OW27vyrThSvnIw243ihaPaYXCQSyefU6EWn8JJH9Omf/Ix3vzQ==
 
 i18next-client@~1.11.4:
   version "1.11.4"
